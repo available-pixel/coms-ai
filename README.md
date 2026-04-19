@@ -89,12 +89,12 @@ streamlit run app.py
 
 ## 📦 Requirements
 
-streamlit
-pandas
-reportlab
-streamlit-pdf-viewer
-folium
-streamlit-folium
+- streamlit
+- pandas
+- reportlab
+- streamlit-pdf-viewer
+- folium
+- streamlit-folium
 
 ---
 
