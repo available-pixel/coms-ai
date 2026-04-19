@@ -64,13 +64,13 @@ Creates a personalized summary for users.
 
 app.py
 modules/
-├── data_loader.py
-├── matcher.py
-├── map_view.py
-├── analyzer.py
-├── explainer.py
-├── report.py
-├── scorer.py
+-├── data_loader.py
+-├── matcher.py
+-├── map_view.py
+-├── analyzer.py
+-├── explainer.py
+-├── report.py
+-├── scorer.py
 
 ---
 
