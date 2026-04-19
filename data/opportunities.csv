@@ -1,0 +1,11 @@
+id,title,provider,type,field,level,location,country,mode,deadline,eligibility,description,link
+1,Google Africa Developer Scholarship,Google,Scholarship,Tech,Beginner,Africa,Multiple,Online,Rolling,African students interested in tech,Free training program in software development and cloud skills,https://developers.google.com/community/africa
+2,UN Internship Programme,United Nations,Internship,Policy,Intermediate,Global,Multiple,On-site,Rolling,Undergraduate or graduate students,Internship opportunities across UN departments worldwide,https://careers.un.org
+3,Remote Python Developer Job,Various Companies,Job,Tech,Advanced,Global,Remote,Remote,Open,Experienced Python developers,Work remotely on backend systems and APIs,https://remoteok.com
+4,Mastercard Foundation Scholars Program,Mastercard Foundation,Scholarship,Business,Beginner,Africa,Multiple,On-site,Varies,African students with leadership potential,Full scholarship for undergraduate and postgraduate studies,https://mastercardfdn.org
+5,Local NGO Internship (Cotonou),NGO Benin,Internship,Social,Beginner,Benin,Benin,On-site,Open,Students interested in social impact,Assist in community development projects in Benin,https://example.com
+6,Data Analyst Remote Job,Various Companies,Job,Tech,Intermediate,Global,Remote,Remote,Open,Knowledge of data analysis and Python,Analyze datasets and generate business insights,https://weworkremotely.com
+7,African Union Internship Program,African Union,Internship,Policy,Intermediate,Africa,Ethiopia,On-site,Varies,African students and graduates,Internship at the African Union Commission,https://au.int
+8,ALX Software Engineering Program,ALX,Training,Tech,Beginner,Africa,Multiple,Online,Rolling,African learners interested in tech careers,Intensive software engineering training program,https://www.alxafrica.com
+9,World Bank Internship Program,World Bank,Internship,Business,Advanced,Global,USA,Hybrid,Varies,Graduate students in relevant fields,Internship with global development projects,https://www.worldbank.org
+10,Andela Remote Software Job,Andela,Job,Tech,Advanced,Global,Remote,Remote,Open,Experienced African developers,Remote engineering roles with global companies,https://andela.com
