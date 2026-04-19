@@ -61,3 +61,104 @@ Creates a personalized summary for users.
 ---
 
 ## 📂 Project Structure
+
+app.py
+modules/
+├── data_loader.py
+├── matcher.py
+├── map_view.py
+├── analyzer.py
+├── explainer.py
+├── report.py
+├── scorer.py
+
+---
+
+## 📄 Installation (Local Setup)
+
+```bash
+git clone https://github.com/your-username/coms-ai.git
+cd coms-ai
+
+pip install -r requirements.txt
+
+streamlit run app.py
+```
+
+---
+
+## 📦 Requirements
+
+streamlit
+pandas
+reportlab
+streamlit-pdf-viewer
+folium
+streamlit-folium
+
+---
+
+## 🎯 Purpose of the Project
+
+This project was built to simulate:
+
+- Scholarship selection systems
+- Opportunity evaluation frameworks
+- AI-based decision-making tools
+
+It demonstrates skills in:
+
+- Data processing
+- AI logic design
+- UI/UX design with Streamlit
+- PDF report generation
+- Geospatial visualization
+
+---
+
+## 👤 Author
+
+Fadil Owolara ADELABOU
+AI & Software Development Enthusiast
+
+---
+
+## ⭐ Future Improvements
+
+- Add machine learning-based scoring model
+- Improve recommendation engine
+- Add user authentication
+- Deploy scalable backend API
+
+---
+
+# 🚀 🧠 DEPLOYMENT CHECKLIST (STREAMLIT CLOUD)
+
+Your app is already deployed here:
+👉 https://coms-ai-fadil-ade.streamlit.app/
+
+Now just ensure:
+
+---
+
+## ✅ 1. GitHub repo is updated
+
+```bash
+git add .
+git commit -m "Final deployment version"
+git push
+```
+
+## ✅ 2. Requirements file is correct
+✔ Must include:
+streamlit
+pandas
+reportlab
+streamlit-pdf-viewer
+folium
+streamlit-folium
+
+## 3. No venv pushed (IMPORTANT)
+✔ .gitignore contains
+venv/
+__pycache__/
