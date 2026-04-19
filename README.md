@@ -7,7 +7,7 @@
 
 ## 📸 App Preview
 
-![COMS Screenshot](screenshot.png)
+![COMS Screenshot](screenshot.jpeg)
 
 ---
 
